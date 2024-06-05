@@ -16,4 +16,4 @@ Playwright: A newer library for browser automation, providing capabilities simil
 
 These tools together enable robust and flexible web scraping solutions, from simple static page scraping to complex dynamic content extraction and browser automation.
 
-I have Scrap lots of site for NS Scrapper project :-Amazon , Facebook, Myntra , Meesho , Jiomart , Dmart , Swiggy-Instamart , Dunzo , Blinkit , E-commerce sites (Indian , US , UAE , SA , China).
+I have Scrap lots of site for NS Scrapper project :-Amazon ,Flipkart , Nykaa , Purplle , Myntra , Meesho , Jiomart , Dmart , Swiggy-Instamart , Dunzo , Blinkit , E-commerce sites (Indian , US , UAE , SA , China).
